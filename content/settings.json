@@ -9,12 +9,17 @@
     "logo": true,
     "title": false
   },
-  "twitter": "nuxt_js",
   "github": {
-    "repo": "nan980914/help.mujicv.com "
+    "repo": "nan980914/help.mujicv.com",
+    "releases": ""
   },
   "colors": {
     "primary": "#51a0f7"
   },
-  "credits": false
+  "credits": false,
+  "algolia": {
+    "apiKey": "<API_KEY>",
+    "indexName": "<INDEX_NAME>",
+    "langAttribute": "language"
+  }
 }

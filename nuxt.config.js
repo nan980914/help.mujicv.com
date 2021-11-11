@@ -5,20 +5,20 @@ export default withDocus({
     'vue-plausible/lib/esm'
   ],
   plausible: {
-    domain: 'tailwindcss.nuxtjs.org'
+    domain: 'help.mujicv.com'
   },
   vite: { ssr: true },
   i18n: {
     baseUrl: ({ $docus }) => ($docus && $docus.settings && $docus.settings.url) || '',
     locales: [{
-      code: 'en',
-      iso: 'en-US',
-      file: 'en-US.js',
-      name: 'English'
+      code: 'zh-CN',
+      iso: 'zh-CN',
+      file: 'zh-CN.js',
+      name: '中文'
     }],
-    defaultLocale: 'zh-cn',
+    defaultLocale: 'zh-CN',
     parsePages: false,
     lazy: true,
     seo: false
-  }
+  },
 })
