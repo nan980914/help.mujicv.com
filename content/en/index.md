@@ -56,6 +56,8 @@ features:
 邮箱 📩 ：qiufenghyf@163.com
 
 群聊 🏃 :  
+<img src="https://cdn.mdedit.online/group/88__aeb5858f098b6ad531ecd894f6af9bca_61fd91dd8cb7ca0d11e23814d95ac5c8.png" style="width:300px;">
+
 
 如果你对 Markdown 不熟悉或在书写简历过程中遇到问题，可以先查看我们编写的「**[实用基础教程](./setup.md)**」。
 

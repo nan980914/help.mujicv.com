@@ -5,5 +5,16 @@
     "light": "/logo-light.png",
     "dark": "/logo-dark.png"
   },
-  "github": "mujicv"
+  "header": {
+    "logo": true,
+    "title": false
+  },
+  "twitter": "nuxt_js",
+  "github": {
+    "repo": "nan980914/help.mujicv.com "
+  },
+  "colors": {
+    "primary": "#51a0f7"
+  },
+  "credits": false
 }
