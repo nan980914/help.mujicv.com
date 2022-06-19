@@ -17,7 +17,7 @@ category: 💐 常见问题
 
 点击证件照插件，将你的证件照拖入，如果照片过大，可以选择 https://tinypng.com/ 进行压缩。
 
-![image-20220619162011284](/Users/qiufeng/Library/Application Support/typora-user-images/image-20220619162011284.png)
+<img src="https://s3.qiufeng.blue/blog/image-20220619162011284.png?imageView2/0/format/webp/q/75/400" alt="image-20220619162011284" style="zoom: 50%;" />
 
 
 
