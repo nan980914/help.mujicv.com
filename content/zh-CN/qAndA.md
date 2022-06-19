@@ -9,9 +9,17 @@ category: 💐 常见问题
 
 可以的。
 
-**方式1：选择模板中心-找到带有证件照的模板简历**
+**方式1(推荐)：使用证件照插件**
 
-![1629537319690](https://s3.qiufeng.blue/blog/1629537319690.jpg)
+如果为安装插件，在顶部**插件列表**中选择证件照插件，选择安装。
+
+![image-20220619161940876](https://s3.qiufeng.blue/blog/image-20220619161940876.png?imageView2/0/format/webp/q/75)
+
+点击证件照插件，将你的证件照拖入，如果照片过大，可以选择 https://tinypng.com/ 进行压缩。
+
+![image-20220619162011284](/Users/qiufeng/Library/Application Support/typora-user-images/image-20220619162011284.png)
+
+
 
 **方式2：直接插入 img 标签**
 
@@ -25,55 +33,7 @@ category: 💐 常见问题
 
 ![image-20210821171842737](https://s3.qiufeng.blue/blog/image-20210821171842737.png)
 
-## 2. 如何修改证件照？
-
-可以通过一些在线图床软件上传完图片后，获取到一个图片的在线`url`，替换 `<img>` 中的 `src`
-
-以 [https://imagelol.com/](https://imagelol.com/) 举例。
-
-#### 第一步
-
-打开 [https://imagelol.com/](https://imagelol.com/)。
-
-#### 第二步
-
-上传你的照片/头像。
-
-![&#x6728;&#x53CA;&#x7B80;&#x5386;-&#x8BC1;&#x4EF6;&#x7167;-&#x56FE;&#x5E8A;-1](https://s3.qiufeng.blue/blog/image-20210826231513131.png)
-
-![](https://s3.qiufeng.blue/blog/image-20210826231554830.png)
-
-![&#x6728;&#x53CA;&#x7B80;&#x5386;-&#x8BC1;&#x4EF6;&#x7167;-&#x56FE;&#x5E8A;-2](https://s3.qiufeng.blue/blog/image-20210826231628542.png)
-
-#### 第三步
-
-对得到的图片 url 点击复制。
-
-![](https://s3.qiufeng.blue/blog/image-20210826231700797.png)
-
-#### 第四步
-
-粘贴替换 markdown 编辑器里你的 img 标签里的 src 属性，替换掉之前的链接。
-
-`<img src="你的链接" style="width:90px;position:absolute;top: 40px;right: 50px;">`
-
-#### 其他的图床
-
-[https://sm.ms](https://sm.ms)
-
-[https://imagelol.com](https://imagelol.com)
-
-[https://imgkr.com](https://imgkr.com)
-
-[https://imgtu.com](https://imgtu.com)
-
-[https://catbox.moe](https://catbox.moe)
-
-[https://www.niupic.com](https://www.niupic.com)
-
-## 3. 证件照可以调整位置和大小吗？
-
-可以的。
+## 2. 证件照如何调整位置和大小吗？
 
 ![image-20210826225554024](https://s3.qiufeng.blue/blog/image-20210826225554024.png)
 

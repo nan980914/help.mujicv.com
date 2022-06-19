@@ -1,5 +1,5 @@
 ---
-title: 介绍
+title: 快速开始
 description: ''
 position: 1
 category: ''
@@ -13,11 +13,9 @@ features:
 
 我们希望**帮助你**「以最简单的方式来写好简历，只需专注于自身的内容而无需关注排版」
 
-立即体验 👉  [https://resume.mdedit.online](https://resume.mdedit.online) 
+立即体验 👉  https://www.mujicv.com
 
-基础版开源于Github，欢迎Star  👉 [https://github.com/hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site)
-
-<img src="https://s3.qiufeng.blue/nan/muji.png">
+![jianli-haibao-v3-2000](https://s3.qiufeng.blue/blog/jianli-haibao-v3-2000.jpg?imageView2/0/format/webp/q/75)
 
 ### 「木及简历」的特点
 
@@ -31,13 +29,19 @@ features:
 
 🎏 **5. 海量「极简」主题与模板**
 
-☁ **6. 远端存储，数据永不丢失**
+☁  **6. 远端存储，数据永不丢失**
 
 🎯 **7. 可视化定位，「内容 - 视图」双向可寻迹**
 
 📎 **8. 证件照位置及大小可修改，打破传统模板约束**
 
 🥁 **9. 支持导入导出Markdown，随时随地可编写**
+
+**👓 10. 所见即所得编辑器，降低你的使用门槛**
+
+🍇**11. 多份简历，自由抒写**
+
+🎮**12. 插件模式，可插拔模式**
 
 ### 我们的理念
 
@@ -53,7 +57,7 @@ features:
 
 微信 🌱 ：秋风(qiufengblue)、楠溪(xiyou6)
 
-邮箱 📩 ：qiufenghyf@163.com
+邮箱 📩 ：qiufeng@mujicv.com
 
 群聊 🏃 :  
 <img src="https://cdn.mdedit.online/group/88__aeb5858f098b6ad531ecd894f6af9bca_61fd91dd8cb7ca0d11e23814d95ac5c8.png" style="width:300px;">
