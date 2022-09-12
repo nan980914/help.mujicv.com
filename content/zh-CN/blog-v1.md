@@ -5,14 +5,11 @@ position: 5
 category: 🔖 博客
 ---
 
-
 **木及简历**是一个免费的在线 Markdown 简历制作网站，致力于**让你能以更简单的方式写好简历**。木及简历上线 5 个月到目前累计已导出 10000+ 份简历。尽管可能还是一个不够成熟的产品，但在大量用户的反馈和建议中不断成长着，一直在保持着稳定的更新迭代。
-
-  
 
 在线地址：https://www.mujicv.com/
 
-![](https://s3.qiufeng.blue/blog/640-20220619181143903.png?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181143903.png?imageView2/0/format/webp/q/75)
 
 ## 诞生的契机
 
@@ -26,9 +23,9 @@ category: 🔖 博客
 
 ## 思考
 
-有问题就得有思考。由于我们平时写项目文档、总结文章和接口API文档都是用的 Markdown，其语法非常简洁且易上手。使得我们可以专注于文本的内容编辑，不必在文本与工具栏频繁切换，只需要键盘输入就可以完成一份具有各类标题与标注的文档，让我们的思绪得以延续。也正是由于 Markdown 的这些特性，Github上很多程序员都在使用 Markdown 写简历，但是大多数用的是默认的 Markdown 渲染方式，虽然足够简洁，但他看上去并不像一份简历。**只解决温饱问题并不够，我们还想要简历「好看与专业」。**至此，木及简历已经有了初步核心的想法理念。我们要做一款以 **「简历 = Markdown文本 + 主题」** 为核心的简历制作工具，并提供好主题，目的是为了 **让你只需专注于自己的内容，就能写好一份「好看与专业」的简历。**
+有问题就得有思考。由于我们平时写项目文档、总结文章和接口 API 文档都是用的 Markdown，其语法非常简洁且易上手。使得我们可以专注于文本的内容编辑，不必在文本与工具栏频繁切换，只需要键盘输入就可以完成一份具有各类标题与标注的文档，让我们的思绪得以延续。也正是由于 Markdown 的这些特性，Github 上很多程序员都在使用 Markdown 写简历，但是大多数用的是默认的 Markdown 渲染方式，虽然足够简洁，但他看上去并不像一份简历。**只解决温饱问题并不够，我们还想要简历「好看与专业」。**至此，木及简历已经有了初步核心的想法理念。我们要做一款以 **「简历 = Markdown 文本 + 主题」** 为核心的简历制作工具，并提供好主题，目的是为了 **让你只需专注于自己的内容，就能写好一份「好看与专业」的简历。**
 
-<img src="https://s3.qiufeng.blue/blog/640-20220619181147050.png?imageView2/0/format/webp/q/75/w/400" style="zoom:67%;" />
+<img src="https://s3.mdedit.online/blog/640-20220619181147050.png?imageView2/0/format/webp/q/75/w/400" style="zoom:67%;" />
 
 ## 不一样的简历体验
 
@@ -36,47 +33,47 @@ category: 🔖 博客
 
 我们选用 Markdown 来书写简历，同时支持导入导出 `.md` 文件。你可以随时随地编写，并可以很方便的对自己的简历进行版本管理，只需维护 Markdown 即可。
 
-![](https://s3.qiufeng.blue/blog/640-20220619181155360.png?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181155360.png?imageView2/0/format/webp/q/75)
 
 ### 02 双栏实时显示文本与简历
 
 我们采用 **「左侧 Markdwon 编辑器，右侧简历预览」** 的双栏模式，使你能实时预览自己的简历现在是什么样子，做到心中有数。
 
-![](https://s3.qiufeng.blue/blog/75?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/75?imageView2/0/format/webp/q/75)
 
 ### 03 一份文本 + 多样主题，构建无限可能
 
 对于传统方式来写简历，如果在写完内容后想要更换一份模板会比较费时费力。而我们提供了 **「主题」**，对于同一份 Markdown，你只需简单**选择并切换主题**即可更换为不同的简历样式，构建无限可能。
 
-![](https://s3.qiufeng.blue/blog/640-20220619181214815.png?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181214815.png?imageView2/0/format/webp/q/75)
 
 ### 04 智能一页，自动识别，完美排版
 
 我们还提供了智能一页的功能，能够帮助你更好地应对以下尴尬的场景，使你的简历变得更加 **「精致」**。
 
-![](https://s3.qiufeng.blue/blog/640.jpeg?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640.jpeg?imageView2/0/format/webp/q/75)
 
 ### 05 智能分割
 
 通过我们的智能分割算法，能够自动识别简历的边距，以最合适的距离进行排版。
 
-![](https://s3.qiufeng.blue/blog/640-20220619181223602.png?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181223602.png?imageView2/0/format/webp/q/75)
 
 ### 06 自动云端存储，数据永不丢失
 
 书写简历时，我们会帮你自动存储 Markdown 到云端，保证数据不会丢失。同时可以不受任何地点/时间的限制，随写随关，下次登录后即可接着继续写。
 
-![](https://s3.qiufeng.blue/blog/640-20220619181227968.jpeg?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181227968.jpeg?imageView2/0/format/webp/q/75)
 
 ## 为什么叫木及
 
 木和及两个字拼在一起就是"极"，汉字释义为"顶点;尽头"，与简历的"简"字组合在一起就是极简。为的是想**传达我们"极简"的理念**，正如著名设计师迪特·拉姆斯\(Dieter Rams \)的设计理念"**Less, but better**"，我们希望剔除复杂的流程，使木及简历看起来简洁，使用起来简单。因此我们不管是在「自身网站的设计」还是「简历模板的提供」，一如既往的追求着极简的风格。
 
-![](https://s3.qiufeng.blue/blog/640-20220619181231900.png?imageView2/0/format/webp/q/75)
+![](https://s3.mdedit.online/blog/640-20220619181231900.png?imageView2/0/format/webp/q/75)
 
 ## 日拱一卒
 
-木及简历从最初只是一个雏形\(开源于Github\)到现在，经历了构思、设计、技术选型、代码编写、测试、收集反馈、深挖需求、更新迭代这一系列过程。上线 5 个月，经历了15 次版本迭代 ，上线了 9 大核心功能点，累计解决了 30+ 的线上 BUG。我们不断优化用户体验，积极响应用户的反馈，形成了良好的社群氛围。例如智能一页、证件照、滚动跟随、字体切换等功能，都是由用户的建议中发展而来的。
+木及简历从最初只是一个雏形\(开源于 Github\)到现在，经历了构思、设计、技术选型、代码编写、测试、收集反馈、深挖需求、更新迭代这一系列过程。上线 5 个月，经历了 15 次版本迭代 ，上线了 9 大核心功能点，累计解决了 30+ 的线上 BUG。我们不断优化用户体验，积极响应用户的反馈，形成了良好的社群氛围。例如智能一页、证件照、滚动跟随、字体切换等功能，都是由用户的建议中发展而来的。
 
 ## 未来的木及简历
 
@@ -104,6 +101,6 @@ category: 🔖 博客
 
 ### 项目成员
 
-<img src="https://s3.qiufeng.blue/blog/640-20220619181236333.jpeg?imageView2/0/format/webp/q/75" style="zoom:50%;" />
+<img src="https://s3.mdedit.online/blog/640-20220619181236333.jpeg?imageView2/0/format/webp/q/75" style="zoom:50%;" />
 
-<img src="https://s3.qiufeng.blue/blog/640-20220619181310649.jpeg?imageView2/0/format/webp/q/75" style="zoom:50%;" />
+<img src="https://s3.mdedit.online/blog/640-20220619181310649.jpeg?imageView2/0/format/webp/q/75" style="zoom:50%;" />

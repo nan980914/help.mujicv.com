@@ -1,6 +1,6 @@
 ---
 title: 基础教程
-description: ''
+description: ""
 position: 2
 category: 📝 内容编写
 ---
@@ -9,7 +9,7 @@ category: 📝 内容编写
 
 这里是一篇结合「木及简历」的 Markdown 书写教程，力求从**实用的角度**出发来介绍常用的规则。
 
-因此并不会介绍**全部**的 Markdown 语法，学习更多可以移步 👉 [Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)
+因此并不会介绍**全部**的 Markdown 语法，学习更多可以移步 👉 [Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)
 
 ## 1. 使用 \# 号标记标题
 
@@ -27,19 +27,19 @@ category: 📝 内容编写
 
 ## 2. 插入图片（证件照） 🧩
 
-「插入证件照」作为在写简历时一个强需求，为了能自定义图片的**位置和大小**，我们采用以下形式来插入证件照，只需把「src中的链接」替换为「自己的图片链接」然后插入 Markdown 中任意位置即可。
+「插入证件照」作为在写简历时一个强需求，为了能自定义图片的**位置和大小**，我们采用以下形式来插入证件照，只需把「src 中的链接」替换为「自己的图片链接」然后插入 Markdown 中任意位置即可。
 
 ```markup
-<img src="https://s3.qiufeng.blue/muji/muji-zhengjian.jpg"
+<img src="https://s3.mdedit.online/muji/muji-zhengjian.jpg"
      style="position:absolute;width: 90px;top: 40px;right: 50px;"
 >
 ```
 
-如果你熟悉HTML可能知道，**更换 width 的数值即可改变图片大小 以及 更换 top 和 right 的数值即可改变图片位置。**
+如果你熟悉 HTML 可能知道，**更换 width 的数值即可改变图片大小 以及 更换 top 和 right 的数值即可改变图片位置。**
 
-对于不熟悉HTML的朋友，我们提供了对图片的**可视化拖拽 & 改变尺寸**的功能，可以帮助你轻松自定义。
+对于不熟悉 HTML 的朋友，我们提供了对图片的**可视化拖拽 & 改变尺寸**的功能，可以帮助你轻松自定义。
 
-![](https://s3.qiufeng.blue/nan/image-20211109233444515.png)
+![](https://s3.mdedit.online/nan/image-20211109233444515.png)
 
 ## 3. 支持左右结构 🎉
 
@@ -63,7 +63,7 @@ category: 📝 内容编写
 
 用一对`**`号包裹住文字，使其变为粗体来「加重」某些关键词，如：`**粗体**` 👉 **粗体**
 
-用一对 \`\`  号包裹着文字，使其变为标签样式，如：\`标签\` 👉 `标签`
+用一对 \`\` 号包裹着文字，使其变为标签样式，如：\`标签\` 👉 `标签`
 
 ## 5. 使用 数字和减号 实现列表
 
@@ -119,17 +119,17 @@ category: 📝 内容编写
 
 ## 7. 支持语义化图标 ✨
 
-我们提供了一些写简历常用到的图标 icon，通过 **icon:name** 这种形式书写，可以在任意位置插入： ![image-20210904170243267](https://s3.qiufeng.blue/nan/image-20210904170243267.png)
+我们提供了一些写简历常用到的图标 icon，通过 **icon:name** 这种形式书写，可以在任意位置插入： ![image-20210904170243267](https://s3.mdedit.online/nan/image-20210904170243267.png)
 
-示例使用效果如下👇：
+示例使用效果如下 👇：
 
-![image-20210904170429420](https://s3.qiufeng.blue/nan/image-20210904170429420.png)
+![image-20210904170429420](https://s3.mdedit.online/nan/image-20210904170429420.png)
 
 ## More 💡
 
 由于我们是基于 Markdown 来构建简历，很多自主权其实把握自己手里。
 
-所以还有更多写法和展示待你发挥你的想象力✨，去探索去发掘。
+所以还有更多写法和展示待你发挥你的想象力 ✨，去探索去发掘。
 
 例如「把 GitHub-Profile 加入你的简历」、「把图标 icon 置于各级标题前」等诸多好玩的想法。
 

@@ -5,33 +5,37 @@ position: 5
 category: 💐 常见问题
 ---
 
-## 1.如何删除多行文字？
+## 如何删除多行文字？
 
 **a.所见即所得编辑器：**
 
 在空白处点击不放，然后移动出现选框，然后按 del 键，高亮文本就会被删除。
 
-![image-20220619165357375](https://s3.qiufeng.blue/blog/image-20220619165357375.png?imageView2/0/format/webp/q/75/400)
+![木及简历-删除多行文字](https://s3.mdedit.online/blog/image-20220619165357375.png?imageView2/0/format/webp/q/75/400)
 
 **b.源码编辑器**
 
 直接选中多行书删除即可
 
+## 如何复制多行文字
 
+在空白处点击不放，然后移动出现选框，就会选中多行文本，然后按 ctrl/command + c 
 
-## 2.如何插入图片
+![木及简历-复制多行文字](https://s3.mdedit.online/blog/2022-09-12-11.04.48.gif?imageView2/0/format/webp)
 
-**方式1: 拖拽上传(推荐)**
+## 如何插入图片
+
+**方式 1: 拖拽上传(推荐)**
 
 直接将图片拖到编辑器中，即可快速上传
 
-![image-20220619165649816](https://s3.qiufeng.blue/blog/image-20220619165649816.png?imageView2/0/format/webp/q/75)
+![image-20220619165649816](https://s3.mdedit.online/blog/image-20220619165649816.png?imageView2/0/format/webp/q/75)
 
-**方式2: 使用 markdown 语法** 
+**方式 2: 使用 markdown 语法**
 
-直接输入 `![标题](链接)`  注意，链接必须是要以 `http/https` 开头的网址，外链可以选择第三方图床进行上传，例如图壳 （https://imgkr.com/#upload）
+直接输入 `![标题](链接)` 注意，链接必须是要以 `http/https` 开头的网址，外链可以选择第三方图床进行上传，例如图壳 （https://imgkr.com/#upload）
 
-## 3.快捷键
+## 快捷键
 
 |            | 快捷键               |
 | ---------- | -------------------- |
